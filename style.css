@@ -1,12 +1,12 @@
-.container {
+.page-container {
   border: 1px solid black;
   border-radius: 10px;
   text-align: center;
-  padding: 50px;
+  padding: 30px;
   margin: 0 auto;
-  /* max-width: 100px; */
+  max-width: 400px;
 }
-.container ul {
+.page-container ul {
   text-align: center;
   list-style: none;
 }
