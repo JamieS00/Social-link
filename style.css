@@ -50,5 +50,20 @@ ul .box:hover {
 img {
   border-radius: 50%;
 }
+.attribution {
+  color: white;
+}
 
 /*Mobile Responsive*/
+@media (max-width: 600px) {
+  .page-container {
+    max-width: 100%;
+
+    margin: 0 auto;
+  }
+
+  /* .img-fluid {
+    max-width: 100%;
+    height: auto;
+  } */
+}
