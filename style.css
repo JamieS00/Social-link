@@ -41,7 +41,14 @@ ul .box {
   font-weight: bold;
   text-align: center;
 }
+ul .box:hover {
+  background-color: hsl(75, 94%, 57%);
+  cursor: pointer;
+  color: hsl(0, 0%, 20%);
+}
 
 img {
   border-radius: 50%;
 }
+
+/*Mobile Responsive*/
