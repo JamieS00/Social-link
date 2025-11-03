@@ -17,9 +17,9 @@ h1,
   border: 1px solid black;
   border-radius: 10px;
   text-align: center;
-  padding: 20px;
+  padding: 30px;
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 400px;
 }
 
 .page-container ul {
