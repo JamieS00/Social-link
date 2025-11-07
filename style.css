@@ -42,7 +42,7 @@ h1,
 ul .box {
   border: 1px solid black;
   border-radius: 7px;
-  padding: 12px;
+  padding: 12px 80px;
   color: hsl(0, 0%, 100%);
   background-color: hsl(0, 0%, 20%);
   font-size: large;
